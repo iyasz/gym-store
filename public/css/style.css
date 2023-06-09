@@ -1,0 +1,15 @@
+.form-control {
+    box-shadow: none !important;
+}
+
+hr {
+    opacity: 8%;
+}
+
+.fs-s-sm {
+    font-size: 12px;
+}
+
+.fs-sm {
+    font-size: 13.4px;
+}
